@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Utility Classes/|Inventory Management/|Turns/" kind="src" path=""/>
+	<classpathentry kind="src" path="Inventory Management"/>
+	<classpathentry kind="src" path="Turns"/>
+	<classpathentry kind="src" path="Utility Classes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
